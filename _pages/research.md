@@ -16,7 +16,7 @@ Joscimar Silva, Helcimara Telles, João Camargos & Nerea García. 2025. [Turmoil
 Silvana Krause, João Camargos & Rafael Fonseca. 2025. [Population Aging and Dissatisfaction with Democracy: Evidence from a 2-level model in Latin America](https://link.springer.com/book/9783031831041). In: *Public Opinion and Turmoil In Latin American Democracies*, Springer Nature.
 
 
-Telles, Helcimara, João Camargos, Nayla Lopes & Josê Angelo Machado. 2024 [Fellings, Denyalism, President Trust and the Perception of the COVID-19 Pandemic](https://www.finotracoeditora.com.br/covid-19-no-brasil-algumas-contribuicoes-sobre-des-coordenacao-e-opiniao-publica), In: *Covid-19 no Brasil - algumas contribuições sobre a (des)coordenação e Opinião pública*, PROCAD. In Portuguese.
+Telles, Helcimara, João Camargos, Nayla Lopes & Josê Angelo Machado. 2024 [Feelings, Denialism, President Trust and the Perception of the COVID-19 Pandemic](https://www.finotracoeditora.com.br/covid-19-no-brasil-algumas-contribuicoes-sobre-des-coordenacao-e-opiniao-publica), In: *Covid-19 no Brasil - algumas contribuições sobre a (des)coordenação e Opinião pública*, PROCAD. In Portuguese.
 
 Camargos, João. 2023. [Beliefs and Emotions in Brazilian Politics: Bolsonaro’s Government Evaluation and Religious Feelings in Minas Gerais State](https://upr.lse.ac.uk/articles/85) *LSE upr*, v. 6.
 
