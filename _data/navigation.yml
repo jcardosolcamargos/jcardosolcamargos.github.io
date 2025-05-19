@@ -8,6 +8,12 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Sobre mim (PT)"
+    url: /about_PT/
+
+  - title: "Sobre mí (ES)"
+    url: /about_PT/
+
   - title: "Publications"
     url: /research/
 
