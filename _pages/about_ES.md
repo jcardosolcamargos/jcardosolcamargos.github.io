@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Sobre mí (ES)"
+title: "Sobre mí"
 permalink: /about_ES/
 author_profile: true
 redirect_from:
